@@ -2,9 +2,9 @@
 
 <img src="https://github.com/svanlee/leetcode-daily-number-of-senior-citizens/blob/main/number-of-senior-citizens.PNG" alt="Problem Discription" width="400"/>
 
-<img src="" alt="Solved Problem 1 Python3" width="400"/>
+<img src="https://github.com/svanlee/leetcode-daily-number-of-senior-citizens/blob/main/Personal%20Branding-LeetCode-Python3-%2378.PNG" alt="Solved Problem 1 Python3" width="400"/>
 
-<img src="" alt="Solved Problem 2 Python3" width="400"/>
+<img src="https://github.com/svanlee/leetcode-daily-number-of-senior-citizens/blob/main/Personal%20Branding-LeetCode-Python3-%2379.PNG" alt="Solved Problem 2 Python3" width="400"/>
 
 <img src="" alt="Solved Problem 3 Python3" width="400"/>
 
